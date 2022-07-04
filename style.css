@@ -8,9 +8,6 @@ h1{
 .orange-c{
     color: orange;
 }
-section{
-    display: flex;
-}
 .hw{
     width: 50%;
     padding-left: 7%;
@@ -19,7 +16,7 @@ section{
     width: 80%%;
     height: 60%;
 }
-#button{
+.button{
     text-decoration: none;
     color: white;
     padding: 5px 40px;
@@ -27,7 +24,20 @@ section{
     border-radius: 5px;
     font-weight: bold;
 }
-#top-bannar{
+.top-bannar{
     background-image: url(img/top-banner.png);
     background-repeat: no-repeat;
+    display: flex;
+}
+section{
+    display: flex;
+    margin-bottom: 150px;
+}
+.second-bannar{
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.hw p{
+    padding-right: 10%;
 }
