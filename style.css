@@ -41,3 +41,35 @@ section{
 .hw p{
     padding-right: 10%;
 }
+.hw1{
+    width: 44%;
+    margin: 0 3%;
+    padding-left: 3%;
+    box-shadow: 5px 5px 25px gray;
+    border-left: 7px solid #F9755E;
+}
+.experience{
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.hw1 p{
+    padding-right: 5%;
+}
+h2{
+    font-size: 35px;
+}
+.hw2{
+    width: 44%;
+    margin: 0 3%;
+    padding-left: 3%;
+    box-shadow: 5px 5px 25px gray;
+    border-left: 7px solid #3337fa;
+}
+.hw2 p{
+    padding-right: 5%;
+}
+#footer{
+    text-align: center;
+    color: gray;
+}
